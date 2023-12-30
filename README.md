@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishnuraj
 - 👀 I’m interested in Coding and solving problems
-- 🌱 I’m currently learning Vue frameworks, SPA and micro front-end
+- 🌱 working at altimetrik (Samsung)
 - 📫 Reach me by vishnubhadri@hotmail.com
 
 <!---
