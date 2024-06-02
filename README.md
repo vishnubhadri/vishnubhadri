@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishnuraj
-- 👀 I’m interested in Coding and solving problems
-- 🌱 working at altimetrik (Samsung)
+- 👀 I’m interested in Coding, solving problems and Scaleable design
+- 🌱 working at Comcast
 - 📫 Reach me by vishnubhadri@hotmail.com
 
 <!---
